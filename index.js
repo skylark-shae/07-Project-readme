@@ -38,8 +38,7 @@ If you have any questions, please reach out to me at:
 ![License: ${license}](https://img.shields.io/badge/License-${license}-blue.svg)
 
 ## Screencastify
-[Click here to view the Screencastify video]
-`;
+- Screencastify: [Link](https://drive.google.com/file/d/1uyrbPMUjMPC9IN6MY4GuHyldYhkszUKu)`;
 
 // TODO: Create a function to write README file
 async function writeToFile(fileName, data) {
